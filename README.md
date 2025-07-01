@@ -77,4 +77,4 @@ This project aims to analyze employee attrition using HR data to understand the 
 
 **Sithu Sunny**  
 Aspiring Data Analyst |  
-📫 [Connect on LinkedIn](www.linkedin.com/in/sithu-sunny)
+📫 [www.linkedin.com/in/sithu-sunny]
